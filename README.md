@@ -1,4 +1,8 @@
-### Hi there 👋
+## Oscar Miniet
+
+Here's my personal github for all the things I like to mess around with
+
+
 
 <!--
 **ominiet/ominiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
